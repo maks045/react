@@ -1,0 +1,18 @@
+footer {
+  width: 1210px;
+  height: 133px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .foot {
+    width: 170px;
+    height: 40px;
+    left: 520px;
+    gap: 24px;
+  }
+  h5 {
+    width: 210px;
+    height: 18px;
+  }
+}

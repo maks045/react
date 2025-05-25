@@ -1,0 +1,36 @@
+.section4 {
+  width: 1000px;
+  height: 806px;
+  top: 600px;
+  margin: auto;
+
+  img {
+    margin-top: -200px;
+  }
+
+  .info2 {
+    display: flex;
+    justify-content: space-between;
+
+    h3 {
+      font-weight: 700;
+      font-size: 24px;
+      line-height: 36px;
+      color: #fa4a0c;
+    }
+    h2 {
+      width: 561px;
+      height: 114px;
+      line-height: 80px;
+      font-size: 40px;
+      color: #252b42;
+    }
+    p {
+      font-weight: 500;
+      font-size: 24px;
+      width: 467px;
+      height: 76px;
+      color: #737373;
+    }
+  }
+}
